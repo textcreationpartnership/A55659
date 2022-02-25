@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parable of the bear-baiting</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55659</idno>
+            <idno type="STC">Wing P320</idno>
+            <idno type="STC">ESTC R17821</idno>
+            <idno type="EEBO-CITATION">11864418</idno>
+            <idno type="OCLC">ocm 11864418</idno>
+            <idno type="VID">50068</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50068)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 503:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parable of the bear-baiting</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Johnson,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Concerns the action between the English and Dutch fleet under Lord Torrington, and the French fleet under Tourville.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="parable">
+            <pb facs="tcp:50068:1"/>
+            <pb n="1" facs="tcp:50068:1"/>
+            <head>THE PARABLE OF THE <hi>Bear-Baiting.</hi>
+            </head>
+            <p>THE Proceedings by, and againſt ſome-Body of late, are not altoge<g ref="char:EOLhyphen"/>ther unlike a certain Parable; which, tho I can't at preſent call to mind, where I read it; yet I remember very well, the Subſtance of it was this, <hi>viz.</hi>
+            </p>
+            <p>Once upon a time there was a Bear-Baiting appointed; a great over<g ref="char:EOLhyphen"/>grown French Bear, the greateſt in the World, to be baited by Engliſh and Dutch Maſtiffs, the beſt Maſtiffs in the Univerſe: The Match was made be<g ref="char:EOLhyphen"/>tween the moſt Chriſtian Lyon of <hi>England</hi> and <hi>Holland,</hi> on one Hand; and the moſt Antichriſtian Bear-ward of <hi>France,</hi> on the other Hand: And the Wager was no leſs, than the whole Intereſt of the French Crown on one ſide; and the whole remaining Intereſt of <hi>Europe,</hi> and the Liberty of all Chriſtendom, on the other; in caſe of a total Deſtruction, either of the Bear, or of the Maſtiffs.</p>
+            <p>Whereupon the Great French Bear-ward, that Apocalyptick Beaſt, <hi>Ludovicus,</hi> whoſe Name is the Number of the Beaſt in the <hi>Revelations,</hi> for the Numerical Letters of his Name are <hi>Six hundred threeſcore and ſix:</hi> I ſay, this notorious Beaſt of a Man, this cruel Tyrant, who retains nothing in him of a King, but the Purple; this Bear-ward <hi>le Grand,</hi> ſpared no Coſts nor Pains, to hearten, cheriſh, and ſtrengthen his Bear, againſt the time of Baiting; nay, he ſent as far as the <hi>Levant</hi> for ſtrengthning Cordials, and Re<g ref="char:EOLhyphen"/>ſtoratives for his Bear.</p>
+            <p>Hereupon the wary Lyon (who is, in his own Nature, as wiſe as a Ser<g ref="char:EOLhyphen"/>pent, and yet, as innocent as a Dove) ſent out Force enough, to intercept all thoſe Reſtoratives at the <hi>Streights-Mouth.</hi>
+            </p>
+            <p>But you muſt know, The Lyon having more than a good many Jackals about him (as all our Lyons ever had,) they over-perſwaded him to make a
+<pb n="2" facs="tcp:50068:2"/>Jack-an-Apes Commander of that Force; who, when the Bear's Cordials and Reſtoratives came in ſight, ſat ſtill upon his Butt-end all the while, crack<g ref="char:EOLhyphen"/>ing of Nutts, and making of Monkey's-Faces, and ſo let the ſtrengthning Cordials paſs by ſafe, juſt under his Noſe, without doing any thing, beſides gazing, and ſmelling at 'em.</p>
+            <p>After this, you muſt further know, theſe fooliſh head-ſtrong Jackals (be<g ref="char:EOLhyphen"/>ing all great Favourites forſooth, and pretending to ten times more Know<g ref="char:EOLhyphen"/>ledge and Diſcretion, than ever they were, or ever will be Maſters of) pre<g ref="char:EOLhyphen"/>vailed likewiſe with the Lyon, to make an Old grizled Spaniel, Commander in Chief over all his Maſtiffs both Engliſh and Dutch.</p>
+            <p>Wherefore the Lyon at the earneſt Requeſt and Recommendation of the Jackals, call'd out Old <hi>Grizle,</hi> (a plaguy Dog at a Bitch; and therefore in all Probability, well acquainted with the beſt Kennels) and ſpat in his Mouth, and clapt him on the Back, and gave him all the Incouragement a Dog could have: And then bad him go, range about, ſeek out, and bring home ſixteen or eighteen Couple of ſtout, well-bred, true Engliſh Beagles with him, to hunt out the Bear, and conduct the Maſtiffs to their ſport.</p>
+            <p>But Old <hi>Grizle,</hi> not obſerving his Maſter's Inſtructions, inſtead of procu<g ref="char:EOLhyphen"/>ring ſtrong-built, hearty, experienc'd Beagles, brought back a damn'd-raw Pack of meer Whelps and Lap-Dogs: And by his and their fawning, crouch<g ref="char:EOLhyphen"/>ing, cringing, and wheedling (as Spaniels, Whelps, and Lap-Dogs uſe to do) and by the Interceſſion of the Jackals (who will recommend the Devil for a good Artiſt, if he has but the Art of feeding them ſecretly with forbid<g ref="char:EOLhyphen"/>den Prey;) They prevailed with the Lyon to be commiſſioned under Old <hi>Grizle,</hi> in order to lead and guide the Maſtiffs: which made the Maſtiffs growl moſt confoundedly, through meer Indignation.</p>
+            <p>However out they went under this wiſe Conduct; But before they went out, Old <hi>Grizle,</hi> his Whelps, and his Lap-Dogs (for I call 'em his, becauſe, as I told you but now, they were moſt of his own getting,) thought it con<g ref="char:EOLhyphen"/>venient, for their better Security, to muzzle all the Maſtiffs, and tye 'em faſt in a ſtrong Line of <hi>Paſſive Obedience</hi> and <hi>Non-Reſiſtance:</hi> And as ſoon as that was effectually done, then out they went altogether.</p>
+            <p>And all the way they went, Old <hi>Grizle,</hi> his Whelps, and his Lap-Dogs did frisk, and skip, and leap, and bounce, and yelp; being all over-joy'd, that they ſhould ſee ſome ſport anon: (for moſt of 'em had never ſeen a Bear be<g ref="char:EOLhyphen"/>fore in their Lives:) And oh! how they whipt the Bear about, and ſwing'd him off, all the way, in their own Fancies!</p>
+            <p>
+               <q>Says Old, Proud, Impotent, Self-conceited, empty <hi>Grizle;</hi> Gentle<g ref="char:EOLhyphen"/>men Whelps, and Gentlemen Lap-Dogs, courage! here's Confuſion to the Bear; Huzza! ſhew your ſelves to be but what you are, <hi>viz.</hi> true
+<pb facs="tcp:50068:2"/>
+                  <pb facs="tcp:50068:3"/>
+                  <pb n="3" facs="tcp:50068:3"/>Whelps, and right Lap-Dogs; and I deſire no more: For by your Aſſiſtance I have Power enough to beat all the Bears in <hi>France.</hi> I have been a Whelp and a Lap-Dog my ſelf in my time, as well as the beſt of you all: And to my certain Knowledge an Engliſh Whelp or Lap-Dog is able to grapple with a French Bear at any time: Wherefore we need no Scouts to go be<g ref="char:EOLhyphen"/>fore, to bring us Notice of the Bear's Approach; for as ſoon as he comes within hearing of your terrible Yelping, he will be glad to retire faſt e<g ref="char:EOLhyphen"/>nough of his own accord, I warrant you: Therefore Courage, my Be<g ref="char:EOLhyphen"/>loved Whelps and Lap-Dogs! here's Confuſion once more to the Bear: Huzza—! yelp, yelp, yelp!</q>
+            </p>
+            <p>But old <hi>Grizle</hi> had ſcarce ended theſe Words, nor was the Yelping quite ceas'd, when lo! all on a ſudden, The unexpected roaring of the Bear quite ſurpris'd, daſh'd, aſtoniſh'd, and ſtun'd the whole Pack of Mongrels: Which made old <hi>Grizle</hi> ſhrink in his Tale between his Leggs, and hang down his Head, (and if it had been hung up, not a half-penny dammage) and made all the Whelps and Lap-Dogs begin to whine and whimper about him, and fawn upon him, with wagging Tails clapt in behind, lank Ears before, couchant Heads, and Tears in their Eyes. But on the other ſide, it made the brave Maſtiffs prick up their Ears, and drew Rage and Fome from their Mouths, and Fire from their very Eyes, to be at the Bear. Bleſs me! what a difference there is between Right-true-bred Maſtiffs, and whiſling Currs?</p>
+            <p>(For you muſt know, the Great Bear was, by an unexpected Hurricane, driven to a Bay, Freſh-water Bay; (or elſe he had ſeiz'd, and hugg'd old <hi>Grizle,</hi> and all his Whelps and Lap-Dogs, juſt as the Devil hugg's a Witch, before they had been aware on't) and was there confin'd in <hi>Lob</hi>'s Pound, and ty'd as faſt as a Bear to a Stake: which made him ſuck his Paws, and fret in his Greaſe, and roar after that hideous Manner.)</p>
+            <p>However old <hi>Grizle</hi> was forced, by the Rage and Importunity of the Ma<g ref="char:EOLhyphen"/>ſtiffs, to go and ſhew 'em the Bear; And (to give the Devil his due) he did ſhew 'em the Bear, and that was all: For when he plainly perceived, that the French were really there with their Bears, he immediately took all poſſi<g ref="char:EOLhyphen"/>ble Care to ſtand at diſtance enough out of harms way; and out of the way of doing harm to any, but the forward Maſtiffs.</p>
+            <p>But had the Firſt, Second, and Third-Rate Maſtiffs been then let looſe, when they were freſh and untir'd; and when they had a ſtrong direct Gale to carry 'em to the Bears very Noſe, they would certainly have tore him to pieces in a trice: For he was ſo hemm'd in on every ſide, that he could not ſtir one way or other; neither could any of the Maſtiffs have been there loſt or ſunk, they being then at the Mouth of the beſt Kennel (or Port) in <hi>Europe:</hi> When at the ſame time, the Bear was above a hundred Leagues from his
+<pb n="4" facs="tcp:50068:4"/>Denn: And beſides, there was another ſtrong Party, or Two, of ſtout third, fourth, and fifth-Rate Maſtiffs, out at the ſame time, to have intercepted the Bear in his way, if after the firſt Maſtiffs tearing him, he ſhould have endea<g ref="char:EOLhyphen"/>vour'd to make his eſcape home. Here were all the Advantages, that Heaven and Earth could grant, at once; and all the favourable Opportunities, that Man could ask, or that God need grant: And nothing wanting but Courage, Conduct, Skill, and Honeſty, to accompliſh the utter Deſtruction of the Bear for evermore. Never had Spaniel ſuch an Opportunity of loſing his own Name, and gaining the Reputation of a Maſtiff; and never had Whelps and Lap-Dogs ſuch an Opportunity to ingratiate themſelves with, and gain the applauſe and eſteem of all Mankind, as well as of Womankind and Chil<g ref="char:EOLhyphen"/>dren. But I find the Poet is in the Right on't, who ſay's,
+<q>
+                  <l>
+                     <hi>Naturam expellas furcâ licèt, uſque recurrit.</hi>
+                  </l>
+                  <l>
+                     <hi>Nature recoils;</hi> And tho you hang the Dog,</l>
+                  <l>Yet he will die, juſt as he liv'd, a Rogue.</l>
+               </q>
+            </p>
+            <p>For as ſoon as old <hi>Grizle,</hi> his Whelps, and his Lap-Dogs, eſpyed the vaſt bulk of the Bear's Body, the wideneſs of his Jaws, the largeneſs of his Paws, and the length of his Claws, (as if they had ſeen raw-Head and bloody-Bones) they turn'd all as white preſently, as my Lady's Night-Rail.</p>
+            <p>But by the thundering noiſe of the Maſtiffs, and by the powerful help of Brandy, being ſomewhat rous'd out of their fainting Fit, they began at laſt, (tho it was long firſt) to recover a little out of their clammy Sweat: And then they call'd a Council, (as they call'd it) And there you might have ſeen all the Whelps and Lap-Dogs lying panting round Old <hi>Grizle,</hi> and looking up to him in this time of need, and he looking down upon them again, with moſt pitiful Countenances on both ſides; and all the while making a moſt in<g ref="char:EOLhyphen"/>tolerable Stink for fear of the Bear; nay, ſuch a ſtrange Stink, that I am forc'd to hold my Noſe, even now, whilſt I am ſpeaking on't; and to cry, Out, ye ſtinking Curs! Faw! Out, and be Hang'd! Faw! Out, for ſhame, and make room for the Maſtiffs!</p>
+            <p>However at long-run Old <hi>Grizle</hi> made a ſhift to open his Jaws, and held 'em open a long while, without ſpeaking ever a word, (for he well knew, they underſtood his meaning by his gaping:) Yet at laſt with much ado, and with as much heſitation, trembling, and ſhaking, as if he had been in the <hi>Houſe of Commons,</hi> he broke ſilence, and ſnarl'd out theſe following Senten<g ref="char:EOLhyphen"/>ces, to the great Joy of the Whelps and Lap-Dogs; but to the deep Grief and Regret of the Maſtiffs, and to the everlaſting Stain, and eternal Reproach of the Engliſh Nation, <hi>viz.</hi>
+            </p>
+            <pb n="5" facs="tcp:50068:4"/>
+            <p>
+               <q>Gentlemen Whelps, and Gentlemen Lap Dogs, I lately ſaw, when I was ſo often and ſo long on Shore in <hi>London,</hi> and at <hi>Portſmouth,</hi> (that the very Water-Men call'd me Lord <hi>Tarry-at-Home,</hi> and Lord <hi>Tarry-in-Town</hi>) then I ſay, I ſaw a very good Book, nay which is more, a Convocation-Book, in <hi>Mall Hinton</hi>'s Cloſet, (or rather, Kennel) for I muſt tell you, ſhe is a very devout Creature, a mighty Lover of Convocations, and no good Thing can come out, but ſhe, good Girle, will preſently take it in. And there in that Book I remember it is laid down, by the venerable Authority of a certain kind, of a certain ſort of a Convocation, as an undoubted Principle of our Church, (for I was never of any Church, that was for true fighting, no more than you,) <hi>viz.</hi> That whatever Powers here below are ſettled and fixed, we ought to pay ample Allegiance, Non-Reſiſtance, and Paſſive-Obedience to 'em: And you know well enough, that our Maſter, the Ly<g ref="char:EOLhyphen"/>on, is not ſo very well ſettled and fixed at this time; for he is not yet paſs'd the <hi>Boyne,</hi> and there is a deep Water for him to wade through up to the Chin, and ſeveral French Bears in his way, before he can reach <hi>Dublin.</hi> But on the other ſide you plainly ſee, That the Great French Bear here is ſettled and fixed before your Eyes: And for my part, I have often found great Civilities from French Bears; and ſo, I hope, I may again. Where<g ref="char:EOLhyphen"/>fore, Gentlemen Whelps, and Gentlemen Lap-Dogs, tho you are Young, yet I am Old; and 'tis high time for me to follow the vertuous Example of <hi>Mall Hinton,</hi> and to walk by Convocation-Rules: And therefore I am clearly of the ſame Opinion with the venerable Convocation, <hi>viz.</hi> That we ought in the firſt place to keep our diſtance, to conſider where we are, and in whoſe preſence we be, and to ſee who and who ſtand together; and alſo to keep to the ſaving Doctrine of <hi>Non-Reſiſtance,</hi> till we hear a little better which way things go, and till we are fully ſatisfied what is become of the Iriſh Affairs: And yet notwithſtanding in the mean time, to pay all duti<g ref="char:EOLhyphen"/>ful Reſpects to the ſettled Power of the Bear, (who was driven into the Bay by a Hurricane, and ſo has plainly God's Authority;) And eſpecially to keep cloſe to our Beloved-Church-Rules, and my Old, Natural, Spaniel-Rules, of <hi>Non-Reſiſtance,</hi> and <hi>Paſſive Obedience</hi> during our whole Retreat.</q> At which Periodical Snarl, all the Whelps and Lap-Dogs heav'd up their drooping Heads, and cry'd, <hi>Yelp, Yelp, Yelp;</hi> but the inraged Maſtiffs ſwore, <hi>Wow, Wow, Wow.</hi>
+            </p>
+            <p>This was the warlike Reſolution, the admirable, or Admiral-like Deter<g ref="char:EOLhyphen"/>mination, and poſitive Injunction of Old <hi>Grizle;</hi> Whereunto all the Whelps and Lap-Dogs unanimouſly agreed, and punctually obſerv'd it, like ſo many Dogs in a String; and hung down their Heads all the way, like ſo many Sheep-Biters: finding now by ſad experience the great difference, be<g ref="char:EOLhyphen"/>tween Bear-baiting, and Sheep-biting.</p>
+            <pb n="6" facs="tcp:50068:5"/>
+            <p>But however the Maſtiffs, both Engliſh and Dutch, could not indure to be held ſo long, ſix or ſeven days together, by a Pack of ſhagreen Curs, in ſuch an unreaſonable Line, a Line of five or ſix Leagues diſtance at leaſt from the Bear, the grand Enemy of Mankind, and from their Duty of attacking him.</p>
+            <p>Therefore to be thus unjuſtly reſtrain'd in ſpight of their Courage, nay, in ſpight of their Teeth, by a Company of Whiſters, made the Maſtiffs rave, and grow almoſt ſtark-ſtaring-madd, for want of ſleep and reſt; but eſpeci<g ref="char:EOLhyphen"/>ally for want of fighting; for fighting is their Reſt and Quiet; fighting is their Meat and Drink: A true Tarpollin fight's only to cat, and eat's only to fight again: And there were enough with them to eat up the Bear; and Shar<g ref="char:EOLhyphen"/>pers enough in every thing elſe, but fighting; and more by a great many, (tho not by a good many) than thoſe that devour'd the Great <hi>Spaniſh</hi> Bear in 1588.</p>
+            <p>Whereupon the Lyoneſs, hearing the loud-mouth'd Voice of her Maſtiffs, both Engliſh and Dutch, ſpeaking the ſame thing, and (which is ſtrange) the ſame Language, and both Countries agreeing in the ſame Verdict, <hi>viz.</hi> That the Maſtiffs were abus'd, curb'd, and muzzl'd by a parcel of Mongrels; Therefore ſhe rous'd up her Royal Wrath and ſent poſitive Orders to the Curs, either to permit the Maſtiffs to fight, or elſe to come preſently themſelves to her Denn in the Tower.</p>
+            <p>This Royal Eccho ſtartled the Spaniel, the Whelps, and the Lap-Dogs worſe, (if poſſible,) than the roaring of the Bear had done before: For now, being almoſt nine days Old in their Iniquity, the Whelps began to ſee, that there was another ſettled Power, beſides the Bears.</p>
+            <p>Thus Old <hi>Grizle,</hi> his Whelps, and his Lap-Dogs being reduced to a great ſtreight, for fear of the Lyoneſs on one ſide, and of the Bear on the other; and yet being willing to curry favour with both ſides, and to keep to the Convo<g ref="char:EOLhyphen"/>cation-Rules of <hi>Non-Reſiſtance</hi> of the ſettled Power of the Lyoneſs, and of <hi>Paſſive Obedience</hi> to the fixed Power of the Bear: Therefore they craftily and cunningly reſolved, (as if they had been ſo many Schoolmen, or Doctors of Metaphyſical Notions and Diſtinctions,) that they would ſacredly (or rather curſedly) obſerve a ſtrict Nutrality on both ſides.</p>
+            <p>In purſuance whereof, Old <hi>Grizle</hi> in the firſt place making his Honours, his Bows, and his profound Conge's to the Bear; and then making his O<g ref="char:EOLhyphen"/>beyſance to the Lyoneſs, and with all making a ſhew of praying (but not fighting) for King <hi>William</hi> and Queen <hi>Mary:</hi> He hung out the Bloody Flag, (as they uſe to do at the Bear-Garden,) and proclaim'd free Liberty for all to fight, that had a mind to it. Fight Dog, fight Bear, for him, and his.</p>
+            <pb facs="tcp:50068:5"/>
+            <pb facs="tcp:50068:6"/>
+            <pb n="7" facs="tcp:50068:6"/>
+            <p>Whereupon the brave <hi>Tyrrell,</hi> the undaunted <hi>Dorrell,</hi> and ſeveral other Engliſh, and above twenty Dutch Maſtiffs, all as good as ever run at a Bear, (And, oh! that the couragious and victorious <hi>Shovel</hi> had been amongſt 'em!) tho they were before almoſt quite throtled, ſpent, and ſtrangl'd by being held back ſo long from their Sport, in ſuch an unreaſonable Line, yet now took freſh Courage, and broke the Line, and leſt the Mongrels behind to their Due, the Line; and ran full ſpeed forwards, and made directly at the Bear with o<g ref="char:EOLhyphen"/>pen Mouths; and ſtar'd Fire, and gap'd Smoke, and ſpoke Thunder, and darted Thunder-bolts, and hurl'd Whirl-winds at the Bear; and ſo ſcorched, blighted, blaſted, and twiſted him; and gave him ſuch Rents, ſuch Gaſhes, ſuch Breaches, and ſuch Shocks, that they made him groan and reel back<g ref="char:EOLhyphen"/>wards at their very firſt Onſet: And had they been ſeconded, as they ought, we ſhould never have been troubled hereafter with any more French dancing Bears again.</p>
+            <p>And tho I will hold ten Engliſh Crowns to one French Crown at any time, upon any of theſe Maſtiffs Heads, both Dutch and Engliſh, againſt any French Cubb whatſoever of equal ſize: And tho I have great reaſon always to lament my own Inſolvency, in that I am not able ever to pay ſufficient Expreſſions of Gratitude and Thankfulneſs to every one of theſe glorious Aſſailants; and particularly to the Dutch, becauſe I find, they had not ſo many Whelps and Lap-Dogs amongſt them, as we had; No, nor ſo many Jackals neither.</p>
+            <p>Yet after all, I beſeech you, Gentlemen, bear with my Weakneſs, and pardon the Infirmity of my Judgment (if it be ſo) and give me leave to ſay, That my main Bett is more eſpecially reſerved for, and fixed upon, the brave <hi>Tyrrell:</hi> A hundred to one on his Head at any time; His Name is <hi>Wonder,</hi> a right Engliſh Maſtiff, and a true-bred Tarpollin; who never gave an Af<g ref="char:EOLhyphen"/>front, and never brook'd one: Who is of ſuch ſtrange Humility, Goodneſs, and Modeſty; and yet at the ſame time of ſuch unparallel'd Courage, Know<g ref="char:EOLhyphen"/>ledge, and Bravery, That I proteſt I have often gaz'd at the Man in Raptures of Admiration; and always thought him a great Bleſſing to this Nation, if we underſtood him; that is to ſay, (at which I know the Jackals will grin) if we underſtood how to imploy true Vertue, true Honeſty, true Valour, true Skill, true Conduct, and true Merit to the beſt Advantage; And if we un<g ref="char:EOLhyphen"/>derſtood how to pitch upon a Man, that can, by his own private Intereſt and Repute amongſt all true Tarpollins, Man out a whole Fleet at any time with<g ref="char:EOLhyphen"/>out a Preſs.</p>
+            <p>But theſe indeed would be too many Bleſſings wrapt up all in one; And the powerful Spirit of the Ever-Bleſſed-Biſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher,</hi> ſtill ſurviving in his Grandſon, would make too good an Admiral for ſo bad an Age, as this is.</p>
+            <pb n="8" facs="tcp:50068:7"/>
+            <p>Neither would I have Old envious <hi>Grizle,</hi> nor any of his malicious Whelps or Lap-Dogs, think, That Captain <hi>Tyrrell</hi> is any ways privy to this Com<g ref="char:EOLhyphen"/>mendation: No, good Man, he would have been the only Obſtacle againſt it, if he had known it; for he is neither for praiſing himſelf, nor diſpraiſing others.</p>
+            <p>But yet, I hope, my Lord <hi>Grizle,</hi> Maſter Whelps, and Maſter Lap-Dogs, you will give me leave to ſpeak the truth concerning your Worſhips; who was a Spectator and Stander-by all the while, as well as you; eſpecially ſince you have made me, and all my Country-men, pay ſo dear for our ſtanding at your ſpecial Bear-baiting; nay, me-thinks, you might out of modeſty, (if you had any) give us leave to ſpeak, who are ſuch great Loſers by you: And more eſpecially, ſince you have brought things to ſuch a paſs, that if we don't ſpeak now, we muſt for ever hereafter hold our Peace; for you have bid the laſt Bans of Matrimony between Us and Deſtruction.</p>
+            <p>Wherefore ſince I neither do, nor can, ſpeak evil of the Rulers of the Peo<g ref="char:EOLhyphen"/>ple, <hi>viz.</hi> King <hi>William</hi> and Queen <hi>Mary;</hi> of whom, by whom, and in whom I know nothing but good: And ſince our bleſſed Saviour call'd thoſe Men <hi>Dogs,</hi> that eat up the Childrens Bread: And ſince you, Gentlemen Whelps, and Gentlemen Lap-Dogs, have given a pretty good ſtroke already to our daily Bread; and are preparing not only to devour the Remainder, but alſo to robb us of the Bread of Life: And to bring in the Abomination of Deſolation upon us; even that Abomination, which maketh deſolate now at this very day in <hi>Flanders, Savoy,</hi> and all the Frontiers of the <hi>Empire,</hi> &amp;c. and would willingly do the like here among us, with all his Heart; and ſo, I perceive, with all your's too: And ſince you have only the Name, the Sa<g ref="char:EOLhyphen"/>lary, the Saſh, the Cravat-ſtring, the Feather, the Red, and the Blew of Commanders; without the true Heart, the Spirit, the Experience, the Ho<g ref="char:EOLhyphen"/>neſty, and the Bravery of true Engliſh Tarpollins: And ſince you have ac<g ref="char:EOLhyphen"/>quitted Old <hi>Grizle</hi> for his ill Service; and have ſnarl'd and ſnapt at my dearly Beloved <hi>Wonder,</hi> and his wonderfully couragious Brethrens Heels, for their good Service: Therefore I will take upon me the boldneſs, (whether you give me leave or no) to tell you in plain Engliſh, without any mixture of French in't, That you are a Pack of Curs and Mongrels; and ought to be turn'd off, and caſheer'd, every one of you; for there is none amongſt you all, (tho you very well deſerve it) that is worth hanging.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Johnſon,</hi> 1691.</p>
+            <pb facs="tcp:50068:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
